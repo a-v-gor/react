@@ -1,0 +1,1 @@
+Project for learn REACT in [RollingScopes School](https://rs.school/react/).
